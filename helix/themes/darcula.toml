@@ -26,7 +26,7 @@
 
 "operator" = "grey05"
 "variable" = "white"
-"variable.other.member" = "purple"
+"variable.other.member" = "white"
 "constant" = "lightblue"
 "constant.numeric" = "lightblue"
 "constant.character.escape" = "white"
@@ -36,11 +36,11 @@
 "function" = "yellow"
 "function.macro" = "orange"
 "constructor" = "yellow"
-"special" = "green"
+"special" = "white"
 "keyword" = "orange"
 "comment" = { fg = "grey", modifiers = [] }
 "label" = "purple"
-"namespace" = { fg = "white", modifiers = [] }
+"namespace" = { fg = "purple", modifiers = [] }
 
 # HTML
 "tag" = "orange"
